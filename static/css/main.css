@@ -43,7 +43,7 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#39c;
+  color:#33cc41;
   font-weight:400;
   text-decoration:none;
 }
@@ -151,6 +151,7 @@ div[class='social'] a {
 	}
 
 /* Icons */
+.social a[href*='quora.com'] {background-image: url('../images/icons/quora.png');}
 .social a[href*='about.me'] {background-image: url('../images/icons/aboutme.png');}
 .social a[href*='bitbucket.org'] {background-image: url('../images/icons/bitbucket.png');}
 .social a[href*='delicious.com'] {background-image: url('../images/icons/delicious.png');}
